@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     
     #My Apps
     'articles',
+    'accounts',
     
     #Django Apps
     'django.contrib.admin',
